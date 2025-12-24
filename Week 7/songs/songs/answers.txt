@@ -1,0 +1,1 @@
+In step 8, I used the LIKE operator with the pattern '%feat.%'. This works because the percent signs act as wildcards, allowing any text to appear before or after the phrase "feat.". This ensures that I match songs where "feat." appears anywhere in the name, which is the standard way Spotify denotes a featured artist in a track title.
